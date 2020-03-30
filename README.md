@@ -1,15 +1,15 @@
 # Responsive Web Design: Technical documentation page
 
 > Welcome my project "Responsive Web Design: Technical documentation page", built with html and css. 
-The purpose of this exercise is to make use of responsive design principles in order to make the website responsive. In particular, media queries and flexbox are used extensively.
+The purpose of this exercise is to make use of responsive web design principles in order to make the website responsive. In particular, media queries are used extensively.
 Please enjoy and leave a comment.
 
 # Screenshot
 
-![screenshot](./images/screenshot.png)
+![screenshot](./images/screenshot.jpeg)
 
 ## Live Demo
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/alvarorf/FCC-ResponsiveWebDesign-technicalDocumentationPage/aefda5a70c3aead5a8444e7648ce9f48d0f48e0c/index.html)
 
 ## Getting Started
 
